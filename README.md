@@ -1,5 +1,6 @@
-Team members 
-1)S.Sameera shekka Farveen 
+Project 5: Student Enrollment and Course management system (SECMS)
+Team members :
+1)S.Sameera Shekka Farveen 
 2)E.Rishya
 3)E.Pugalarasi
 4)K.Sahitha
