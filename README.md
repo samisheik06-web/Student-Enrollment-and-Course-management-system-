@@ -1,4 +1,4 @@
-Project 5: Student Enrollment and Course management system (SECMS)
+Project 5: Student Enrollment and Course management system (SECMS),
 Team members :
 1)S.Sameera Shekka Farveen 
 2)E.Rishya
